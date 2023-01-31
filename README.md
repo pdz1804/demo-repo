@@ -8,4 +8,4 @@ Watch tutorial on YouTube
 
 ### Subsubheader
 
-My name is Quang Phu
+My name is Nguyen Quang Phu
